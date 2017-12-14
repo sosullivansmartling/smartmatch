@@ -12,7 +12,7 @@
          {
             "type"                      : "xml",
             "authorizeContent"          : "false",
-			"pathRegex": "*\\.xml",
+			"pathRegex": "labels\\/.*\\.xml",
            
         "translationPathExpression" : "translations/${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
          }
