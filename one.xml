@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- smartling.translate_paths = labels/label -->
+<!-- smartling.source_key_paths = labels/{label.smartlingKey} -->
+<!-- smartling.variants_enabled = TRUE -->
+<!-- smartling.placeholder_format_custom = \{.+?\} -->
+<labels xmlns="http://www.hm.com/2017/OnlineLabels" generatorVersion="3.5.2">
+	<label smartlingKey="aaa">I am a string with a shared key</label>
+	<label smartlingKey="bbb">I am a string with common text</label>
+	<label smartlingKey="ccc">I am my own string</label>
+</labels>
