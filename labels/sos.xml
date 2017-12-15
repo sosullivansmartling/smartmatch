@@ -4,6 +4,6 @@
 <!-- smartling.variants_enabled = TRUE -->
 <!-- smartling.placeholder_format_custom = \{.+?\} -->
 <labels xmlns="http://www.hm.com/2017/OnlineLabels" generatorVersion="3.5.2">
-	<label smartlingKey="111">Namespace false updated</label>
+	<label smartlingKey="111">Namespace false</label>
 	<label smartlingKey="222">Another string</label>
   </labels>
