@@ -6,4 +6,5 @@
 <labels xmlns="http://www.hm.com/2017/OnlineLabels" generatorVersion="3.5.2">
 	<label smartlingKey="aaa">I am a string with a shared key</label>
 	<label smartlingKey="123">I am a string with common text</label>
+	<label smartlingKey="456">I am a string with common text from R3</label>
 </labels>
