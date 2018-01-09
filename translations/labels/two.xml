@@ -5,6 +5,6 @@
 <!-- smartling.placeholder_format_custom = \{.+?\} -->
 <labels xmlns="http://www.hm.com/2017/OnlineLabels" generatorVersion="3.5.2">
 	<label smartlingKey="one.aaa">Je suis une chaîne avec une clé partagée</label>
-	<label smartlingKey="one.bbb">I am a string with common text</label>
-  <label smartlingKey="one.ccc">I am my own string</label>
+	<label smartlingKey="one.bbb">Je suis une chaîne avec le texte commun</label>
+  <label smartlingKey="one.ccc">Je suis chaîne commune</label>
 </labels>
